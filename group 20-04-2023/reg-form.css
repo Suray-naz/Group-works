@@ -1,0 +1,54 @@
+.in{
+    display: inline-block;
+    width: 150px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+form{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 15%, rgba(248,253,29,1) 100%);
+width: 400px;
+height: 800px;
+padding-left: 25px;
+padding-top: 20px;
+/* border: 2px solid red; */
+border-radius: 30px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.rows{
+    display: inline-block;
+    width: 150px;
+    
+}
+
+.rows2{
+    display: inline-block;
+    width: 175px;
+}
+
+.rows3{
+    display: inline-block;
+    width: 124px;
+}
+
+.rows4{
+    display: inline-block;
+    width: 330px;
+}
+
+.button:hover{
+    color: rgb(91, 2, 255);
+    font-style: italic;
+    background-color: rgba(240, 244, 245, 0.815);
+    box-shadow: 4px 4px 20px 4px rgb(59, 243, 3);
+}
+}
+    
